@@ -1,5 +1,3 @@
-# Receptjeim
-
 ## Levesek
 
 ## Főételek
