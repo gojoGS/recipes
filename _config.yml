@@ -1,1 +1,4 @@
 baseurl: "/recipes"
+theme: minima
+title: Receptjeim
+description: Gyors, egyszerű, pontos, precíz
