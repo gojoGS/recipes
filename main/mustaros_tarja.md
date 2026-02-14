@@ -18,7 +18,7 @@
 - 1 tk. füstölt paprika
 - kevés olaj (napraforgó) 
 
-Elkészítés:
+## Elkészítés
 
 A pác hozzávalóit a só kivételével tegyük keverőtálba és alaposan keverjük össze.
 
